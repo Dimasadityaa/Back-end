@@ -11,5 +11,11 @@ internet
 
 tahu dasar front end
 1. HTML
+    -belajar html di w3school
+    -belajar dasar html 50 menit perhari dilakukan sampai 5 hari 
 2. CSS
+    -belajar html di w3school
+    -belajar dasar css 50 menit perhari dilakukan sampai 5 hari 
 3. JS
+    -belajar html di w3school
+    -belajar dasar javascript 50 menit dilakukan sampai 5 hari 
