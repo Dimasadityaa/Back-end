@@ -1,0 +1,10 @@
+domain Name
+
+nama domain adalah nama unik yang diberikan untuk mengidentifikasi nama server komputer 
+seperti server web atau server surel di jaringa komputer ataupun internet. nama domain berfungsi untuk
+mempermudah pengguna di internet pada saat melakukan akses ke server, selain juga dipakai
+untutk mengingat nama server yang dikunnjungi tanpa harus mengenal deretan angka yang rumit yang dikenal 
+ip addres, nama domain ini juga dikenal sebagai sebuah kesatuan dari sebuah situs web seperti contohnya
+"wikipedia.org". nama domain kadang kadang disebut pula dengan istilah URL, atau alamat situs web
+
+

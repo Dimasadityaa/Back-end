@@ -1,0 +1,14 @@
+aplikasi web dan browser 
+
+apliaksi web adalah sebuah perangkat lunak (software) yang dapat diakses menggunakan web browser
+apa itu web browser ? web browser adalah aplikasi yang dapat anda gunakan untuk mengakses data
+(browsing) di internet. contoh web browser seperti Firefox, safari, chrome
+
+anggap saja aplikasi web server adalah web server meskipun secara teknis didalam satu web server
+terdapat beberapa aplikasi web, web server sendiri merupakan sebuah aplikasi jaringa yang berjalan
+didalam mesin (server) yang terhubung dengan port jaringan
+
+sedangkan browser pada kasus seperti ini lebih dikenal dengan nama web client. namun
+secara teknis web client bukan hanya browser saja melainkan seluruh aplikasi yang dapat berkomunikasi 
+dengan server seperti cURl dan telnet.
+

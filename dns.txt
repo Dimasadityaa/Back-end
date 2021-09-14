@@ -1,0 +1,22 @@
+pengertian dns 
+
+Domain Name Server atau DNS adalah sebuah sistem yang menghubungkan Uniform Resource Locator
+(URL) dengan internet protocol addres (ip addres)
+
+DNS adalah sistem yang memangkas pekerjan ini untuk anda kini, anda tinggal mengingat nama domain
+dan memasukanya dalam addres bar. DNS kemudian akan menerjemahkan domain tersebut ke dalam ip addres yang komputer pahami
+
+Fungsi DNS
+
+1. meminta informasi ip addres sebuah website berdasarkan nama domain
+2. meminta informasi URL sebuah website berdasarkan ip addrres yang dimasukan
+3. mencari server yang tepat untuk mengirimkan email
+
+
+bagian bagian DNS
+
+- root-level domain merupakan bagian tertinggi dari hiraki DNS, biasanya ia berwujud tanda titik (.) dibagaian paling belakang
+sebuah URL
+- top-level domain adalah ekstensi yang berada dibagian depat root-level domain. terdapat
+dua jenis TLD yang diumumnya dipakai. keduanya, yaitu Generic Top-level Domain (GLTD) dan Country Top Level domain(CCLTD)
+

@@ -1,0 +1,30 @@
+pengertian HTTP
+
+-HTTP adalah komponen website yang mengatur pertukaran data yang terjadi di dalam internet. protokl inilah
+yang membuat web client (browser) dan web server (aplikasi web) dapat terhubung. protokol HTTP mengatur
+proses tranmisi dan bagaimana format data dikirimkan. itulah mengapa protokol HTTP merupakan
+bagian yang penting. saking pentingnya HTTP terus dikembangkan ditandai dengan munculnya protokol
+HTTPS yang menggantikan versi HTTP lama
+
+-apa itu http? http adalah protokol jaringan lapisan aplikasi (apllication layer)
+yang dikembangkan untuk membantu proses transfer antar komputer. protokol ini berguna 
+untu mentransfer informasi seperti dokumen, file, gambar, dan video antar komputer
+
+sesuai namanya, penggunaan protokol HTTP (Hyper Text transfer Protocol) berhubungan dengan 
+hypertext sehingga banyak mengambil sebagai referensi ke berkas lainya atau direktori
+
+protol HTTP menyediakan kumpulan perintah didalam komunikasi antar jaringan. komunikasi tersebut
+berlangsung antara web server dengan komputer client atau sebaliknya. didalam komunikasi ini, komputer
+client melakukan permintaan dengan mengakses alamat ip atau domain(URL). kemudian web server
+mengelola permintaan tersebut sesuai dengan kode yang dimasukan
+
+cara kerja HTTP memproses data
+
+pertama yang perlu anda ketahui adalah web resource. contoh dari web resource 
+tersebut seperti dokumen HTML, PDF, JSON, dan file-file lainya yang tersimpan di dalam web server
+
+supaya web client dapat mengakses berbagai macam resource didalam web server
+mereka menggunakan URL, Nah! protokol HTTP membantu koneksi yang membantu web client untuk mengambil
+web resource yang ada di aplikasi web.
+
+
