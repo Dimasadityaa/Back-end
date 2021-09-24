@@ -17,6 +17,7 @@ h1 {color: blue; font-size: 12px;}
 <h2>css selector</h2>
  <ul>
     <li>selector sederhana (pilih elemen berdasarkan nama, id, class)</li>
+    <br>
     <li>
         selector kombinator (memilih elemen berdasarkan hubungan spesifik diantara mereka)
         <p>ada empat kombinator </p>
@@ -42,15 +43,20 @@ h1 {color: blue; font-size: 12px;}
         <p>contoh code:</p>
         <p>div ~ p { font-size: 12px; }</p>
     </li>
-    <li>selector kelas semu(memilih elemen berdasarkan status tertentu)</li>
-    <h6>apa itu pseudo clas</h6>
-    <p>class semu yang digunakan untuk mendefinsikan keadaan khusus dari suatu elemen
-    <p>misalnya dapat digunakan untuk </p>
-    <ul>
-        <li>gaya elemen saat pengguna mengarahkan mouse keatasnya 
-        <li>gaya tautan yang dikunjungi dan belum dikunjungi secara berbeda</li>
-        <li>gaya elemen saat mendapat fokus</p>
-    </ul>
+    <br>
+    <li>
+        selector kelas semu(memilih elemen berdasarkan status tertentu)
+        <h3>apa itu pseudo class</h3>
+        <p>kelas semu digunakan untuk mendefinisikan keadaan khusus dari suatu eleme</p>
+        <p>misalnya dapat digunakan untuk</p>
+        <ul>
+            <li>gaya elemen saat pengguna mengarahkan mouse ke atasnya</lo>
+            <li>gaya tautan yang dikunjungi dan yang belum dikunjungi secara berbeda</li>
+            <li>gaya elemen saat mendapat fokus<li>
+        </ul>
+        </li>
+    <br>
     <li>selector elemen semu(memilih dan menata bagian elemen)</li>
+    <br>
     <li>selector attribute (memilih elemen berdasarkan attribut atau nilai attribut</li>
 </ul>
