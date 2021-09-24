@@ -55,7 +55,27 @@ h1 {color: blue; font-size: 12px;}
         </ul>
         </li>
     <br><br>
-    <li>selector elemen semu(memilih dan menata bagian elemen)</li>
+    <li>
+        selector elemen semu(memilih dan menata bagian elemen)
+    <p>elemen semu CSS digunakan untuk menata bagian tertentu dari suatu elemen</p>
+    <p>misalnya, dapat digunakan untuk</p>
+    <ul>
+        <li>gaya huruf pertama, atau baris, dari suatu elemen</p>
+        <li>sisipkan konten sebelum, atau setelah, konten elemen</p>
+    </ul>
+    <p> contoh code:</p>
+    <p>
+    selector::pseudo-elemen {
+        properti: value;
+    }
+    <p>gunakan ::first-line untuk menambah gaya khusus untuk baris pertama</p>
+    <p>gunakan ::first-line untuk menambah gaya khusus untuk baris pertama</p>
+    <p>gunakan ::before untuk memasukan beberapa konten sebelum konten dari elemen</p>
+    <p>gunakan ::after untuk memasukan beberapa konten setekah isi elemen</p>
+    <p>gunakan ::marker untuk memilih penanda daftar item</p>
+    
+</p>
+    </li>
     <br>
     <li>selector attribute (memilih elemen berdasarkan attribut atau nilai attribut</li>
 </ul>
