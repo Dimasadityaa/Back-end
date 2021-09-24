@@ -49,7 +49,7 @@ h1 {color: blue; font-size: 12px;}
         <p>kelas semu digunakan untuk mendefinisikan keadaan khusus dari suatu eleme</p>
         <p>misalnya dapat digunakan untuk</p>
         <ul>
-            <li>gaya elemen saat pengguna mengarahkan mouse ke atasnya</lo>
+            <li>gaya elemen saat pengguna mengarahkan mouse ke atasnya</li>
             <li>gaya tautan yang dikunjungi dan yang belum dikunjungi secara berbeda</li>
             <li>gaya elemen saat mendapat fokus<li>
         </ul>
