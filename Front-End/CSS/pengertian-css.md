@@ -51,7 +51,7 @@ h1 {color: blue; font-size: 12px;}
         <ul>
             <li>gaya elemen saat pengguna mengarahkan mouse ke atasnya</li>
             <li>gaya tautan yang dikunjungi dan yang belum dikunjungi secara berbeda</li>
-            <li>gaya elemen saat mendapat fokus<li>
+            <li>gaya elemen saat mendapat fokus</li>
         </ul>
         </li>
     <br><br>
