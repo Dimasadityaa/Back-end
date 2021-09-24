@@ -46,7 +46,6 @@ h1 {color: blue; font-size: 12px;}
     <br>
     <li>
         selector kelas semu(memilih elemen berdasarkan status tertentu)
-        <h3>apa itu pseudo class</h3>
         <p>kelas semu digunakan untuk mendefinisikan keadaan khusus dari suatu eleme</p>
         <p>misalnya dapat digunakan untuk</p>
         <ul>
