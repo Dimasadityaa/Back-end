@@ -17,7 +17,7 @@ h1 {color: blue; font-size: 12px;}
 <h2>css selector</h2>
  <ul>
     <li>selector sederhana (pilih elemen berdasarkan nama, id, class)</li>
-    <br>
+    <br><br>
     <li>
         selector kombinator (memilih elemen berdasarkan hubungan spesifik diantara mereka)
         <p>ada empat kombinator </p>
@@ -43,7 +43,7 @@ h1 {color: blue; font-size: 12px;}
         <p>contoh code:</p>
         <p>div ~ p { font-size: 12px; }</p>
     </li>
-    <br>
+    <br><br>
     <li>
         selector kelas semu(memilih elemen berdasarkan status tertentu)
         <p>kelas semu digunakan untuk mendefinisikan keadaan khusus dari suatu eleme</p>
@@ -54,7 +54,7 @@ h1 {color: blue; font-size: 12px;}
             <li>gaya elemen saat mendapat fokus<li>
         </ul>
         </li>
-    <br>
+    <br><br>
     <li>selector elemen semu(memilih dan menata bagian elemen)</li>
     <br>
     <li>selector attribute (memilih elemen berdasarkan attribut atau nilai attribut</li>
