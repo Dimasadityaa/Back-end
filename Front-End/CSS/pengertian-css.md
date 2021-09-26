@@ -102,7 +102,7 @@ h1 {color: blue; font-size: 12px;}
     border: 5px solid black;
 }
 </p>
-<br>
+<hr>
     <p>CSS [atribut|="nilai"] selector</p>
     <p>CSS [atribut|="nilai"] selector digunakan untuk memilih elemen dengan atribut yang ditentukan dimulai dengan nilai tertentu</p>
     <p>contoh berikut memilih semua elemen dengan nilai atribut kelas yang dimulai dengan "top":</p>
