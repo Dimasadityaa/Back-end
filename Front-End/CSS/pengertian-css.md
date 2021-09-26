@@ -86,7 +86,7 @@ h1 {color: blue; font-size: 12px;}
         background: yellow;
     }
     </p>
-    <br>
+    <hr>
     <p>CSS attribut="value" selector</p>
     <p>CSS attribut="value" selector digunakan untuk memilih elemen dengan atribut dan nilai tertentu</p>
     <p>contoh berikut memilih semua<a> elemen dengan atribut target="_blank"</p>
@@ -94,7 +94,7 @@ h1 {color: blue; font-size: 12px;}
         background: yellow;
     }
     </p>
-    <br>
+    <hr>
     <p>CSS [atribut~="nilai"] selector<p>
     <p>CSS [atribut~="nilai"] selector digunakan untuk memilih elemen dengan nilai atribut yang mengandung kata tertentu</p>
     <p>contoh berikut memilih semua elemen dengan atribut judul yang berisi daftar kata yang dipisahkan spasi, salah satunya adalah bunga </p>
