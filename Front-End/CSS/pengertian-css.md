@@ -78,8 +78,8 @@ h1 {color: blue; font-size: 12px;}
     </li>
     <hr>
     <li>
-    selector attribute (memilih elemen berdasarkan attribut atau nilai attribut</li>
-    <h3>CSS selector attribut</h3>
+        selector attribute (memilih elemen berdasarkan attribut atau nilai attribut
+         <h3>CSS selector attribut</h3>
     <p>[atribut] selector digunakan untuk elemen dengan atribut tertentu</p>
     <p>contoh</p>
     <p>a [target] {
@@ -111,4 +111,6 @@ h1 {color: blue; font-size: 12px;}
     <p>[class|="top"] {
         background: yellow;
     }
+    </li>
+   
 </ul>
