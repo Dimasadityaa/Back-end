@@ -77,5 +77,38 @@ h1 {color: blue; font-size: 12px;}
 </p>
     </li>
     <br>
-    <li>selector attribute (memilih elemen berdasarkan attribut atau nilai attribut</li>
+    <li>
+    selector attribute (memilih elemen berdasarkan attribut atau nilai attribut</li>
+    <h3>CSS selector attribut</h3>
+    <p>[atribut] selector digunakan untuk elemen dengan atribut tertentu</p>
+    <p>contoh</p>
+    <p>a [target] {
+        background: yellow;
+    }
+    </p>
+    <br>
+    <p>CSS attribut="value" selector</p>
+    <p>CSS attribut="value" selector digunakan untuk memilih elemen dengan atribut dan nilai tertentu</p>
+    <p>contoh berikut memilih semua<a> elemen dengan atribut target="_blank"</p>
+    <p>a [target="blank"] {
+        background: yellow;
+    }
+    </p>
+    <br>
+    <p>CSS [atribut~="nilai"] selector<p>
+    <p>CSS [atribut~="nilai"] selector digunakan untuk memilih elemen dengan nilai atribut yang mengandung kata tertentu</p>
+    <p>contoh berikut memilih semua elemen dengan atribut judul yang berisi daftar kata yang dipisahkan spasi, salah satunya adalah bunga </p>
+<p>[title~="bunga"] {
+    border: 5px solid black;
+}
+</p>
+<br>
+    <p>CSS [atribut|="nilai"] selector</p>
+    <p>CSS [atribut|="nilai"] selector digunakan untuk memilih elemen dengan atribut yang ditentukan dimulai dengan nilai tertentu</p>
+    <p>contoh berikut memilih semua elemen dengan nilai atribut kelas yang dimulai dengan "top":</p>
+    <p>catatan: nilai harus berupa kata utuh, baik sendiri, seperti class="top", atau diikuti oleh tanda hubung(-), seperti class="top-text"!
+    <p>contoh</p>
+    <p>[class|="top"] {
+        background: yellow;
+    }
 </ul>
