@@ -33,7 +33,7 @@
     <li>belajar dasar javascript 50 menit dilakukan sampai 5 hari </li>
 </ol>
     
-<h2>belajar tentang os dan umum</h2>
+<h2>belajar tentang os dan general knowledge</h2>
 
 <p>A. penggunaan terminal</p>
 <p>B. bagaimana sistem operasi secara umum</p>
