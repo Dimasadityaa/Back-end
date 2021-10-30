@@ -52,4 +52,4 @@
 
 </p>
 
-<img src="os.jpg" alt="os knowledge" width="300px" heigth="300px" text-align: center;>
+<img src="os.jpg" alt="os knowledge" width="300px"; heigth="300px"; text-align: center;>
