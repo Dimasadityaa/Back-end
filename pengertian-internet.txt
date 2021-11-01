@@ -1,3 +1,0 @@
-cara kerja internet adalah dengan memanfaatkan alamat ip yang menjadi penghubung antara server-server diseluruh dunia. internet bekerja sangat cepat karena didukung 
-oleh satelit yang memancarkan gelombang internet ke seluruh dunia ditandai oleh alamat ip yang berbeda beda. alamat ip server inilah yang menjadi 
-penggerak dan penghubungantae pengguna internet
