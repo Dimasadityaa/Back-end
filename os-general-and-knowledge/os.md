@@ -9,4 +9,4 @@
 
 </p>
 
-<img src="./picture/Os.jpg" alt="os knowledge" width="300px" heigth="300px">
+<img src="../picture/Os.jpg" alt="os knowledge" width="300px" heigth="300px">
