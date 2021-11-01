@@ -52,4 +52,4 @@
 
 </p>
 
-<img src="os.jpg" alt="os knowledge" width="300px" heigth="300px">
+<img src="picture/os.jpg" alt="os knowledge" width="300px" heigth="300px">
