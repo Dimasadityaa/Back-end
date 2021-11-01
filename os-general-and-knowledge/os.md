@@ -8,5 +8,4 @@
 
 
 </p>
-
-<img src="../picture/Os.jpg" alt="os knowledge" width="750" heigth="750" style="text-align: center; border: 2px solid white;">
+<a href="https://ibb.co/vcf95zN"><img src="https://i.ibb.co/zmCdcf3/Os.jpg" alt="Os" border="0" text-align="center"></a>
